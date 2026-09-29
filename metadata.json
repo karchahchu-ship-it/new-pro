@@ -1,0 +1,8 @@
+{
+  "name": "Remix ESP32 Network Scanner",
+  "description": "A professional tool to automatically discover and manage ESP32 devices on your local Wi-Fi hotspot with elegant UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
